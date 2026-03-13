@@ -1,0 +1,6 @@
+New-Item .python-version -ItemType File
+```
+
+Open it and add just this one line:
+```
+3.11.0
